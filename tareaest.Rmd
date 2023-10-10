@@ -11,6 +11,7 @@ Instalamos la librería
 
 ```{r}
 library(markovchain)
+
 ```
 
 Ejercicio 1:
